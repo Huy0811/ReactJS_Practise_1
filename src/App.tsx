@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
-import Content from "./components/content/index";
-import Header from "./components/header/index";
+//import Content from "./components/content/index";
+//import Header from "./components/header/index";
 import Menu from "./components/header/menu";
 import Nav from "./components/header/nav";
 
